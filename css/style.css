@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+
+
+#productos,
+#carrito {
+    margin: 20px;
+}
+
+.producto {
+    margin-bottom: 10px;
+}
